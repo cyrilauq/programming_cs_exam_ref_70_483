@@ -1,4 +1,4 @@
-﻿namespace Chapter1
+﻿namespace Skills1_1
 {
     internal class Program
     {

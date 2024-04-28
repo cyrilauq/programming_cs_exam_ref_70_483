@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TaskParallelLib
+namespace Skills1_1.TaskParallelLib
 {
     internal class Invoke
     {
